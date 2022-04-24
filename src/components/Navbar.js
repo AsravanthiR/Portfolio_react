@@ -18,6 +18,11 @@ export default function Navbar() {
           Projects
         </a>
       </nav>
+      <nav>
+        <a href="#resume" className="resume">
+          Resume
+        </a>
+      </nav>
 
       <nav>
         <a href="#contact" className="contact">
